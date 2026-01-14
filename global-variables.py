@@ -19,7 +19,7 @@ To create a global variable inside a function, you can use the global keyword.""
 
 
 def call_name_second():
-    global y
+    global y 
     y = "alex"
 
 call_name_second()
